@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding: 2rem;
+}
+
+#texte-reference {
+  width: 80%;
+  margin: 0 auto;
+  border: solid black;
+  padding: 2rem;
+  border-radius: 15px;
+  height: auto;
+  font-size: 1rem;
+  
+}
+
+#zone-saisie{
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+#zone-saisie > textarea{
+    margin-top: 2rem;
+    font-size: 1rem;
+}
+
+.button{
+    width: 80%;
+    margin: 2rem auto;
+
+}
+
+
