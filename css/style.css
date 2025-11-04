@@ -33,9 +33,51 @@ h1 {
   font-size: 1rem;
 }
 
+#stats-container {
+  width: 80%;
+  margin: 1.5rem auto;
+  text-align: center;
+}
+
+#timer {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #333;
+}
+
 .button {
   width: 80%;
   margin: 2rem auto;
+  text-align: center;
+}
+
+.button button {
+  padding: 0.8rem 2rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  background-color: #4CAF50;
+  color: white;
+  transition: background-color 0.3s ease;
+  margin: 0 0.5rem;
+}
+
+.button button:hover {
+  background-color: #45a049;
+}
+
+#btn-reinitialiser {
+  background-color: #f44336;
+}
+
+#btn-reinitialiser:hover {
+  background-color: #da190b;
+}
+
+#input-utilisateur:disabled {
+  background-color: #f0f0f0;
+  cursor: not-allowed;
 }
 
 .correct {
