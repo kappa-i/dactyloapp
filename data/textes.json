@@ -1,0 +1,194 @@
+{
+  "facile": [
+    {
+      "theme": "Animaux",
+      "langue": "fr",
+      "phrases": [
+        "Le chat dort sur le canapé.",
+        "Les oiseaux chantent dans le jardin.",
+        "Le chien aime jouer avec sa balle.",
+        "Les poissons nagent dans l'eau.",
+        "Le lapin mange des carottes.",
+        "Les abeilles butinent les fleurs.",
+        "Le papillon vole dans le ciel.",
+        "La vache produit du lait frais."
+      ]
+    },
+    {
+      "theme": "Quotidien",
+      "langue": "fr",
+      "phrases": [
+        "Je me réveille chaque matin à sept heures.",
+        "Le café sent bon dans la cuisine.",
+        "Il fait beau aujourd'hui.",
+        "Je lis un livre intéressant.",
+        "La musique adoucit les mœurs.",
+        "Le temps passe très vite.",
+        "J'aime me promener dans le parc.",
+        "La vie est belle et simple."
+      ]
+    },
+    {
+      "theme": "Couleurs",
+      "langue": "fr",
+      "phrases": [
+        "Le ciel est bleu et dégagé.",
+        "Les roses rouges sont magnifiques.",
+        "L'herbe verte pousse dans le jardin.",
+        "Le soleil jaune brille fort.",
+        "Les nuages blancs flottent doucement.",
+        "La nuit noire est étoilée.",
+        "Les feuilles oranges tombent en automne.",
+        "L'arc-en-ciel a sept couleurs."
+      ]
+    }
+  ],
+  "moyen": [
+    {
+      "theme": "Programmation",
+      "langue": "fr",
+      "phrases": [
+        "Le code propre est facile à lire et à maintenir.",
+        "Les tests unitaires garantissent la qualité du code.",
+        "Refactoriser améliore la structure du programme.",
+        "Les commentaires expliquent le pourquoi, pas le comment.",
+        "La documentation aide les futurs développeurs.",
+        "Les bugs font partie du processus de développement.",
+        "Apprendre de nouvelles technologies est essentiel.",
+        "La collaboration renforce la qualité du projet."
+      ]
+    },
+    {
+      "theme": "Motivation",
+      "langue": "fr",
+      "phrases": [
+        "La pratique régulière améliore la vitesse de frappe.",
+        "Chaque jour compte pour progresser.",
+        "La concentration est la clé du succès.",
+        "Les erreurs font partie de l'apprentissage.",
+        "La persévérance mène à la maîtrise.",
+        "Un bon clavier facilite la frappe.",
+        "La posture correcte évite les douleurs.",
+        "Les pauses régulières sont importantes."
+      ]
+    },
+    {
+      "theme": "Technologie",
+      "langue": "fr",
+      "phrases": [
+        "Internet connecte des milliards de personnes.",
+        "Les smartphones sont devenus indispensables.",
+        "L'intelligence artificielle transforme notre monde.",
+        "La cybersécurité protège nos données personnelles.",
+        "Le cloud permet de stocker des données en ligne.",
+        "Les réseaux sociaux changent notre communication.",
+        "La réalité virtuelle ouvre de nouvelles possibilités.",
+        "L'innovation technologique ne cesse d'évoluer."
+      ]
+    },
+    {
+      "theme": "Science",
+      "langue": "fr",
+      "phrases": [
+        "La gravité maintient les planètes en orbite.",
+        "Les atomes constituent toute la matière.",
+        "L'ADN contient notre code génétique.",
+        "La photosynthèse produit de l'oxygène.",
+        "Les neurones transmettent les informations nerveuses.",
+        "La lumière voyage plus vite que le son.",
+        "Les mathématiques expliquent l'univers qui nous entoure.",
+        "La recherche scientifique fait avancer l'humanité."
+      ]
+    }
+  ],
+  "difficile": [
+    {
+      "theme": "Philosophie",
+      "langue": "fr",
+      "phrases": [
+        "La conscience de soi distingue l'humanité des autres espèces.",
+        "L'existence précède l'essence selon la philosophie existentialiste.",
+        "La connaissance véritable nécessite une remise en question constante.",
+        "Le doute méthodique constitue le fondement de la pensée cartésienne.",
+        "La dialectique hégélienne oppose thèse, antithèse et synthèse.",
+        "L'impératif catégorique kantien définit une morale universelle.",
+        "La phénoménologie étudie les structures de l'expérience consciente.",
+        "L'absurde camusien révèle le conflit entre l'homme et le monde."
+      ]
+    },
+    {
+      "theme": "Littérature",
+      "langue": "fr",
+      "phrases": [
+        "Les métaphores enrichissent considérablement le langage poétique contemporain.",
+        "L'intertextualité révèle les influences littéraires entre différentes œuvres.",
+        "Le courant surréaliste a bouleversé les conventions artistiques établies.",
+        "La narration polyphonique permet d'explorer plusieurs perspectives narratives.",
+        "L'allégorie médiévale dissimulait des messages philosophiques profonds.",
+        "Le romantisme valorisait l'expression des sentiments et l'individualisme.",
+        "La déconstruction derridienne remet en question les structures textuelles.",
+        "L'hermétisme symboliste rend l'interprétation poétique particulièrement complexe."
+      ]
+    },
+    {
+      "theme": "Histoire",
+      "langue": "fr",
+      "phrases": [
+        "La révolution industrielle a profondément transformé les sociétés européennes.",
+        "Les guerres napoléoniennes ont redessiné la carte politique de l'Europe.",
+        "La Renaissance italienne marqua le renouveau des arts et des sciences.",
+        "L'absolutisme monarchique concentrait tous les pouvoirs chez le souverain.",
+        "Les grandes découvertes géographiques ouvrirent de nouvelles routes commerciales.",
+        "La Réforme protestante fragmenta l'unité religieuse de l'Europe occidentale.",
+        "Les révolutions démocratiques instaurèrent progressivement les libertés fondamentales.",
+        "La colonisation européenne modifia durablement les équilibres mondiaux."
+      ]
+    },
+    {
+      "theme": "Voyage",
+      "langue": "fr",
+      "phrases": [
+        "Voyager élargit nos horizons et notre vision du monde contemporain.",
+        "Découvrir de nouvelles cultures enrichit profondément notre esprit curieux.",
+        "Chaque destination raconte une histoire unique et fascinante à explorer.",
+        "Les rencontres authentiques marquent souvent nos voyages les plus mémorables.",
+        "Explorer le monde nourrit constamment notre curiosité intellectuelle insatiable.",
+        "Les souvenirs de voyage restent gravés à jamais dans notre mémoire.",
+        "S'adapter à un nouvel environnement nous grandit et nous transforme.",
+        "Le voyage commence dès le premier pas hors de notre zone de confort."
+      ]
+    }
+  ],
+  "english": [
+    {
+      "theme": "Technology",
+      "langue": "en",
+      "niveau": "moyen",
+      "phrases": [
+        "The internet has revolutionized global communication.",
+        "Artificial intelligence is transforming industries worldwide.",
+        "Cloud computing enables remote data storage solutions.",
+        "Cybersecurity protects sensitive personal information online.",
+        "Mobile devices have become essential daily tools.",
+        "Software development requires continuous learning and adaptation.",
+        "Digital transformation reshapes traditional business models.",
+        "Innovation drives technological progress forward constantly."
+      ]
+    },
+    {
+      "theme": "Nature",
+      "langue": "en",
+      "niveau": "facile",
+      "phrases": [
+        "The sun shines brightly in the sky.",
+        "Trees provide oxygen for all living beings.",
+        "Birds sing beautiful songs every morning.",
+        "Flowers bloom colorfully in the spring.",
+        "Rivers flow steadily towards the ocean.",
+        "Mountains stand tall and majestic forever.",
+        "Rain nourishes the earth and plants.",
+        "Nature offers peace and tranquility always."
+      ]
+    }
+  ]
+}
